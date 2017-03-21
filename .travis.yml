@@ -11,7 +11,7 @@ env:
   - TOXENV=lint
   - TOXENV=coverage
 install:
-  - "pip install tox"
+  - "pip install virtualenv tox"
 # command to run tests
 script: tox
 branches:
