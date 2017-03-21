@@ -34,7 +34,7 @@ logger.error("error message")
 logger.critical("critical message")
 ```
 In result nicely color-coded output:
-![output](./docs.color.png)
+![output](./docs/color.png)
 
 ## Tests
 You can run the tests by invoking
